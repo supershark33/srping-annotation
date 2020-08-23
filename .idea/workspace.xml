@@ -1,19 +1,54 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e8b8ef0e-2fc7-474c-b28b-563d1398146a" name="Default Changelist" comment="" />
+    <list default="true" id="e8b8ef0e-2fc7-474c-b28b-563d1398146a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/zhang/yuan/bo/XXX.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
   <component name="ProjectId" id="1gTuyHFhLTnyoXY6qBo0tUgtxjl" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="$USER_HOME$/.nvm/versions/node/v8.2.1/bin/node" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="ServiceViewManager">
@@ -38,7 +73,25 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1598151155463</updated>
+      <workItem from="1598151156739" duration="2191000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1373" y="356" key="#Project_Structure" timestamp="1598154330525">
+      <screen x="0" y="23" width="2560" height="1337" />
+    </state>
+    <state x="1373" y="356" key="#Project_Structure/0.23.2560.1337@0.23.2560.1337" timestamp="1598154330525" />
+    <state x="1261" y="272" key="SettingsEditor" timestamp="1598154584295">
+      <screen x="0" y="23" width="2560" height="1337" />
+    </state>
+    <state x="1261" y="272" key="SettingsEditor/0.23.2560.1337@0.23.2560.1337" timestamp="1598154584295" />
+    <state x="1438" y="328" width="670" height="676" key="search.everywhere.popup" timestamp="1598151407715">
+      <screen x="0" y="23" width="2560" height="1337" />
+    </state>
+    <state x="1438" y="328" width="670" height="676" key="search.everywhere.popup/0.23.2560.1337@0.23.2560.1337" timestamp="1598151407715" />
   </component>
 </project>
